@@ -1,0 +1,1222 @@
+[
+  {
+    "chinese": "她想要成为一名医生",
+    "english": "She wants to be a doctor",
+    "soundmark": "/ʃiː/ /wɒnts/ /tə/ /biː/ /ə/ /ˈdɒktə(r)/"
+  },
+  {
+    "chinese": "我在周末经常打篮球",
+    "english": "I often play basketball on weekends",
+    "soundmark": "/aɪ/ /ˈɒfn/ /pleɪ/ /ˈbæskɪtbɔːl/ /ɒn/ /ˈwiːkendz/"
+  },
+  {
+    "chinese": "我喜欢和我的宠物狗一起玩",
+    "english": "I enjoy playing with my pet dog",
+    "soundmark": "/aɪ/ /ɪnˈdʒɔɪ/ /ˈpleɪɪŋ/ /wɪð/ /maɪ/ /pet/ /dɒɡ/"
+  },
+  {
+    "chinese": "请保持安静",
+    "english": "Please keep quiet",
+    "soundmark": "/pliːz/ /kiːp/ /ˈkwaɪət/"
+  },
+  {
+    "chinese": "努力学习很重要",
+    "english": "Studying hard is important",
+    "soundmark": "/ˈstʌdiɪŋ/ /hɑːrd/ /ɪz/ /ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "他常常迟到",
+    "english": "He is often late",
+    "soundmark": "/hiː/ /ɪz/ /ˈɒfn/ /leɪt/"
+  },
+  {
+    "chinese": "对不起，我忘记了",
+    "english": "Sorry, I forgot",
+    "soundmark": "/ˈsɒri/ /aɪ/ /fəˈɡɒt/"
+  },
+  {
+    "chinese": "这是我最喜欢的电影",
+    "english": "This is my favorite movie",
+    "soundmark": "/ðɪs/ /ɪz/ /maɪ/ /ˈfeɪvərɪt/ /ˈmʌvi/"
+  },
+  {
+    "chinese": "我不喜欢吃蔬菜",
+    "english": "I don't like eating vegetables",
+    "soundmark": "/aɪ/ /dəʊnt/ /laɪk/ /ˈiːtɪŋ/ /ˈvedʒtəblz/"
+  },
+  {
+    "chinese": "这本书很有趣",
+    "english": "This book is very interesting",
+    "soundmark": "/ðɪs/ /bʊk/ /ɪz/ /ˈveri/ /ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "我们必须做出正确的决定",
+    "english": "We have to make the right decision",
+    "soundmark": "/wi/ /hæv/ /tə/ /meɪk/ /ðə/ /raɪt/ /dɪˈsɪʒən/"
+  },
+  {
+    "chinese": "必须做",
+    "english": "have to do",
+    "soundmark": "/hæv/ /tə/ /du/"
+  },
+  {
+    "chinese": "可能的",
+    "english": "possible",
+    "soundmark": "/'pɑsəbl/"
+  },
+  {
+    "chinese": "知道；认识",
+    "english": "to know",
+    "soundmark": "/tə/ /no/"
+  },
+  {
+    "chinese": "他们必须做出重要的决定",
+    "english": "They have to make important decisions",
+    "soundmark": "/ðeɪ/ /hæv/ /tə/ /meɪk/ /ɪmˈpɔrtənt/ /dɪˈsɪʒənz/"
+  },
+  {
+    "chinese": "她们可能会来参加派对",
+    "english": "They might come to the party",
+    "soundmark": "/ðeɪ/ /maɪt/ /kʌm/ /tuː/ /ðə/ /ˈpɑrti/"
+  },
+  {
+    "chinese": "你必须相信自己",
+    "english": "You have to believe in yourself",
+    "soundmark": "/ju/ /hæv/ /tə/ /bɪˈliːv/ /ɪn/ /jɔrˈsɛlf/"
+  },
+  {
+    "chinese": "我们可能会迟到",
+    "english": "We might be late",
+    "soundmark": "/wi/ /maɪt/ bi /leɪt/"
+  },
+  {
+    "chinese": "这是一个可能的解释",
+    "english": "This is a possible explanation",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ /ˌɛkspləˈneɪʃən/"
+  },
+  {
+    "chinese": "他必须完成作业",
+    "english": "He has to finish his homework",
+    "soundmark": "/hi/ hæz/ tə ˈfɪnɪʃ hɪz ˈhoʊmˌwɜrk/"
+  },
+  {
+    "chinese": "你们可能会成功",
+    "english": "You might succeed",
+    "soundmark": "/ju/ maɪt səkˈsid/"
+  },
+  {
+    "chinese": "这是一个可能的结果",
+    "english": "This is a possible result",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ /rɪˈzʌlt/"
+  },
+  {
+    "chinese": "你必须尊重老师",
+    "english": "You have to respect the teacher",
+    "soundmark": "/ju/ /hæv/ /tə/ rɪˈspɛkt/ ðə /ˈtiʧər/"
+  },
+  {
+    "chinese": "我们知道怎么做",
+    "english": "We know how to do it",
+    "soundmark": "/wi/ /noʊ/ haʊ tə du ɪt/"
+  },
+  {
+    "chinese": "他们可能会犯错",
+    "english": "They might make mistakes",
+    "soundmark": "/ðeɪ/ maɪt meɪk mɪˈsteɪks/"
+  },
+  {
+    "chinese": "这是一个可能的选择",
+    "english": "This is a possible choice",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ /tʃɔɪs/"
+  },
+  {
+    "chinese": "你必须努力学习",
+    "english": "You have to study hard",
+    "soundmark": "/ju/ hæv/ tə ˈstʌdi hɑrd/"
+  },
+  {
+    "chinese": "我们可能会赢得比赛",
+    "english": "We might win the game",
+    "soundmark": "/wi/ maɪt wɪn ðə ɡeɪm/"
+  },
+  {
+    "chinese": "这是一个可能的解决方案",
+    "english": "This is a possible solution",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ səˈluːʃən/"
+  },
+  {
+    "chinese": "他必须做出艰难的决定",
+    "english": "He has to make tough decisions",
+    "soundmark": "/hi/ hæz tə meɪk tʌf dɪˈsɪʒənz/"
+  },
+  {
+    "chinese": "你们可能会得到奖品",
+    "english": "You might get a prize",
+    "soundmark": "/ju/ maɪt ɡɛt ə praɪz/"
+  },
+  {
+    "chinese": "这是一个可能的问题",
+    "english": "This is a possible problem",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ ˈprɒbləm/"
+  },
+  {
+    "chinese": "他们必须努力工作",
+    "english": "They have to work hard",
+    "soundmark": "/ðeɪ/ hæv tə wɜrk hɑrd/"
+  },
+  {
+    "chinese": "我们可能会学习英语",
+    "english": "We might study English",
+    "soundmark": "/wi/ maɪt ˈstʌdi ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "这是一个可能的想法",
+    "english": "This is a possible idea",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ aɪˈdiə/"
+  },
+  {
+    "chinese": "他们可能会变得更好",
+    "english": "They might get better",
+    "soundmark": "/ðeɪ/ maɪt ɡɛt ˈbɛtər/"
+  },
+  {
+    "chinese": "你必须完成任务",
+    "english": "You have to complete the task",
+    "soundmark": "/ju/ hæv tə kəmˈpliːt ðə tæsk/"
+  },
+  {
+    "chinese": "我们知道正确答案",
+    "english": "We know the right answer",
+    "soundmark": "/wi/ noʊ ðə raɪt ˈænsər/"
+  },
+  {
+    "chinese": "他们可能会选择另一个方向",
+    "english": "They might choose another direction",
+    "soundmark": "/ðeɪ/ maɪt tʃuːz əˈnʌðər dɪˈrɛkʃən/"
+  },
+  {
+    "chinese": "这是一个可能的结论",
+    "english": "This is a possible conclusion",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ kənˈkluʒən/"
+  },
+  {
+    "chinese": "她们必须做出决定",
+    "english": "They have to make decisions",
+    "soundmark": "/ðeɪ/ hæv tə meɪk dɪˈsɪʒənz/"
+  },
+  {
+    "chinese": "你可能会找到解决方案",
+    "english": "You might find a solution",
+    "soundmark": "/ju/ maɪt faɪnd ə səˈluːʃən/"
+  },
+  {
+    "chinese": "这是一个可能的选择",
+    "english": "This is a possible choice",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ tʃɔɪs/"
+  },
+  {
+    "chinese": "你必须做出决定",
+    "english": "You have to make a decision",
+    "soundmark": "/ju/ hæv tə meɪk ə dɪˈsɪʒən/"
+  },
+  {
+    "chinese": "我们可能会帮助你",
+    "english": "We might help you",
+    "soundmark": "/wi/ maɪt hɛlp ju/"
+  },
+  {
+    "chinese": "这是一个可能的解决方案",
+    "english": "This is a possible solution",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ səˈluːʃən/"
+  },
+  {
+    "chinese": "你必须准时到达",
+    "english": "You have to arrive on time",
+    "soundmark": "/ju/ hæv tə əˈraɪv ɒn taɪm/"
+  },
+  {
+    "chinese": "我们知道答案",
+    "english": "We know the answer",
+    "soundmark": "/wi/ noʊ ðə ˈænsər/"
+  },
+  {
+    "chinese": "他们可能会失败",
+    "english": "They might fail",
+    "soundmark": "/ðeɪ/ maɪt feɪl/"
+  },
+  {
+    "chinese": "你必须努力工作",
+    "english": "You have to work hard",
+    "soundmark": "/ju/ hæv/ tə/ wɜrk/ hɑrd/"
+  },
+  {
+    "chinese": "我们可能会去旅行",
+    "english": "We might go on a trip",
+    "soundmark": "/wi/ maɪt ɡoʊ ɒn ə trɪp/"
+  },
+  {
+    "chinese": "这是一个可能的结果",
+    "english": "This is a possible result",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ rɪˈzʌlt/"
+  },
+  {
+    "chinese": "他们必须完成任务",
+    "english": "They have to complete the task",
+    "soundmark": "/ðeɪ/ hæv/ tə/ kəmˈpliːt/ ðə/ tæsk/"
+  },
+  {
+    "chinese": "你们可能会成功",
+    "english": "You might succeed",
+    "soundmark": "/ju/ maɪt səkˈsiːd/"
+  },
+  {
+    "chinese": "这是一个可能的解释",
+    "english": "This is a possible explanation",
+    "soundmark": "/ðɪs/ /ɪz/ /ə/ /ˈpɑsəbl/ ˌɛkspləˈneɪʃən/"
+  },
+  {
+    "chinese": "他必须做出艰难的决定",
+    "english": "He has to make tough decisions",
+    "soundmark": "/hiː/ hæz tə meɪk tʌf dɪˈsɪʒənz/"
+  },
+  {
+    "chinese": "你们可能会得到奖品",
+    "english": "You might get a prize",
+    "soundmark": "/juː/ maɪt ɡɛt ə praɪz/"
+  },
+  {
+    "chinese": "这是一个可能的问题",
+    "english": "This is a possible problem",
+    "soundmark": "/ðɪs/ ɪz ə ˈpɑsəbl ˈprɒbləm/"
+  },
+  {
+    "chinese": "他们必须努力工作",
+    "english": "They have to work hard",
+    "soundmark": "/ðeɪ/ hæv tə wɜːrk hɑːrd/"
+  },
+  {
+    "chinese": "我们可能会学习英语",
+    "english": "We might study English",
+    "soundmark": "/wiː/ maɪt ˈstʌdi ˈɪŋɡlɪʃ/"
+  },
+  {
+    "chinese": "这是一个可能的想法",
+    "english": "This is a possible idea",
+    "soundmark": "/ðɪs/ ɪz ə ˈpɑsəbl aɪˈdɪə/"
+  },
+  {
+    "chinese": "他们可能会变得更好",
+    "english": "They might get better",
+    "soundmark": "/ðeɪ/ maɪt ɡɛt ˈbɛtər/"
+  },
+  {
+    "chinese": "你必须完成任务",
+    "english": "You have to complete the task",
+    "soundmark": "/juː/ hæv tə kəmˈpliːt ðə tɑːsk/"
+  },
+  {
+    "chinese": "我们知道正确答案",
+    "english": "We know the right answer",
+    "soundmark": "/wiː/ noʊ ðə raɪt ˈɑːnsər/"
+  },
+  {
+    "chinese": "他们可能会选择另一个方向",
+    "english": "They might choose another direction",
+    "soundmark": "/ðeɪ/ maɪt tʃuːz əˈnʌðər dɪˈrɛkʃən/"
+  },
+  {
+    "chinese": "这是一个可能的结论",
+    "english": "This is a possible conclusion",
+    "soundmark": "/ðɪs/ ɪz ə ˈpɑsəbl kənˈkluːʒən/"
+  },
+  {
+    "chinese": "高兴的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "难的",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "容易的",
+    "english": "easy",
+    "soundmark": "/ˈiːzi/"
+  },
+  {
+    "chinese": "有趣的",
+    "english": "interesting",
+    "soundmark": "/ˈɪntrəstɪŋ/"
+  },
+  {
+    "chinese": "悲伤的",
+    "english": "sad",
+    "soundmark": "/sæd/"
+  },
+  {
+    "chinese": "快乐的",
+    "english": "joyful",
+    "soundmark": "/ˈdʒɔɪfl/"
+  },
+  {
+    "chinese": "勇敢的",
+    "english": "brave",
+    "soundmark": "/breɪv/"
+  },
+  {
+    "chinese": "聪明的",
+    "english": "smart",
+    "soundmark": "/smɑrt/"
+  },
+  {
+    "chinese": "美丽的",
+    "english": "beautiful",
+    "soundmark": "/ˈbjuːtəfl/"
+  },
+  {
+    "chinese": "丑陋的",
+    "english": "ugly",
+    "soundmark": "/ˈʌɡli/"
+  },
+  {
+    "chinese": "胖的",
+    "english": "fat",
+    "soundmark": "/fæt/"
+  },
+  {
+    "chinese": "瘦的",
+    "english": "thin",
+    "soundmark": "/θɪn/"
+  },
+  {
+    "chinese": "高的",
+    "english": "tall",
+    "soundmark": "/tɔːl/"
+  },
+  {
+    "chinese": "矮的",
+    "english": "short",
+    "soundmark": "/ʃɔːrt/"
+  },
+  {
+    "chinese": "强壮的",
+    "english": "strong",
+    "soundmark": "/strɔːŋ/"
+  },
+  {
+    "chinese": "弱的",
+    "english": "weak",
+    "soundmark": "/wiːk/"
+  },
+  {
+    "chinese": "勤劳的",
+    "english": "hardworking",
+    "soundmark": "/ˈhɑrdˈwɜːrkɪŋ/"
+  },
+  {
+    "chinese": "懒惰的",
+    "english": "lazy",
+    "soundmark": "/ˈleɪzi/"
+  },
+  {
+    "chinese": "干净的",
+    "english": "clean",
+    "soundmark": "/kliːn/"
+  },
+  {
+    "chinese": "脏的",
+    "english": "dirty",
+    "soundmark": "/ˈdɜːrti/"
+  },
+  {
+    "chinese": "忙的",
+    "english": "busy",
+    "soundmark": "/ˈbɪzi/"
+  },
+  {
+    "chinese": "闲的",
+    "english": "idle",
+    "soundmark": "/ˈaɪdl/"
+  },
+  {
+    "chinese": "善良的",
+    "english": "kind",
+    "soundmark": "/kaɪnd/"
+  },
+  {
+    "chinese": "邪恶的",
+    "english": "evil",
+    "soundmark": "/ˈiːvl/"
+  },
+  {
+    "chinese": "大的",
+    "english": "big",
+    "soundmark": "/bɪɡ/"
+  },
+  {
+    "chinese": "小的",
+    "english": "small",
+    "soundmark": "/smɔːl/"
+  },
+  {
+    "chinese": "新的",
+    "english": "new",
+    "soundmark": "/njuː/"
+  },
+  {
+    "chinese": "旧的",
+    "english": "old",
+    "soundmark": "/oʊld/"
+  },
+  {
+    "chinese": "热的",
+    "english": "hot",
+    "soundmark": "/hɑt/"
+  },
+  {
+    "chinese": "冷的",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "chinese": "快的",
+    "english": "fast",
+    "soundmark": "/fæst/"
+  },
+  {
+    "chinese": "慢的",
+    "english": "slow",
+    "soundmark": "/sloʊ/"
+  },
+  {
+    "chinese": "硬的",
+    "english": "hard",
+    "soundmark": "/hɑrd/"
+  },
+  {
+    "chinese": "软的",
+    "english": "soft",
+    "soundmark": "/sɔft/"
+  },
+  {
+    "chinese": "贵的",
+    "english": "expensive",
+    "soundmark": "/ɪkˈspɛnsɪv/"
+  },
+  {
+    "chinese": "便宜的",
+    "english": "cheap",
+    "soundmark": "/tʃiːp/"
+  },
+  {
+    "chinese": "轻的",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "chinese": "重的",
+    "english": "heavy",
+    "soundmark": "/ˈhɛvi/"
+  },
+  {
+    "chinese": "湿的",
+    "english": "wet",
+    "soundmark": "/wɛt/"
+  },
+  {
+    "chinese": "干的",
+    "english": "dry",
+    "soundmark": "/draɪ/"
+  },
+  {
+    "chinese": "甜的",
+    "english": "sweet",
+    "soundmark": "/swiːt/"
+  },
+  {
+    "chinese": "苦的",
+    "english": "bitter",
+    "soundmark": "/ˈbɪtər/"
+  },
+  {
+    "chinese": "咸的",
+    "english": "salty",
+    "soundmark": "/ˈsɔːlti/"
+  },
+  {
+    "chinese": "酸的",
+    "english": "sour",
+    "soundmark": "/ˈsaʊər/"
+  },
+  {
+    "chinese": "香的",
+    "english": "fragrant",
+    "soundmark": "/ˈfreɪɡrənt/"
+  },
+  {
+    "chinese": "臭的",
+    "english": "stinky",
+    "soundmark": "/ˈstɪŋki/"
+  },
+  {
+    "chinese": "亮的",
+    "english": "bright",
+    "soundmark": "/braɪt/"
+  },
+  {
+    "chinese": "暗的",
+    "english": "dark",
+    "soundmark": "/dɑːrk/"
+  },
+  {
+    "chinese": "舒适的",
+    "english": "comfortable",
+    "soundmark": "/ˈkʌmfərtəbl/"
+  },
+  {
+    "chinese": "不舒适的",
+    "english": "uncomfortable",
+    "soundmark": "/ʌnˈkʌmfərtəbl/"
+  },
+  {
+    "chinese": "高贵的",
+    "english": "noble",
+    "soundmark": "/ˈnoʊbl/"
+  },
+  {
+    "chinese": "卑贱的",
+    "english": "base",
+    "soundmark": "/beɪs/"
+  },
+  {
+    "chinese": "大方的",
+    "english": "generous",
+    "soundmark": "/ˈdʒɛnərəs/"
+  },
+  {
+    "chinese": "小气的",
+    "english": "stingy",
+    "soundmark": "/ˈstɪndʒi/"
+  },
+  {
+    "chinese": "冷酷的",
+    "english": "cruel",
+    "soundmark": "/ˈkruːəl/"
+  },
+  {
+    "chinese": "温和的",
+    "english": "gentle",
+    "soundmark": "/ˈdʒɛntl/"
+  },
+  {
+    "chinese": "慷慨的",
+    "english": "liberal",
+    "soundmark": "/ˈlɪbərəl/"
+  },
+  {
+    "chinese": "小心的",
+    "english": "careful",
+    "soundmark": "/ˈkɛrfəl/"
+  },
+  {
+    "chinese": "粗心的",
+    "english": "careless",
+    "soundmark": "/ˈkɛrləs/"
+  },
+  {
+    "chinese": "有礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "无礼貌的",
+    "english": "impolite",
+    "soundmark": "/ˌɪmpəˈlaɪt/"
+  },
+  {
+    "chinese": "正常的",
+    "english": "normal",
+    "soundmark": "/ˈnɔːrməl/"
+  },
+  {
+    "chinese": "不正常的",
+    "english": "abnormal",
+    "soundmark": "/æbˈnɔːrməl/"
+  },
+  {
+    "chinese": "有用的",
+    "english": "useful",
+    "soundmark": "/ˈjuːsfəl/"
+  },
+  {
+    "chinese": "无用的",
+    "english": "useless",
+    "soundmark": "/ˈjuːsləs/"
+  },
+  {
+    "chinese": "严格的",
+    "english": "strict",
+    "soundmark": "/strɪkt/"
+  },
+  {
+    "chinese": "宽松的",
+    "english": "loose",
+    "soundmark": "/luːs/"
+  },
+  {
+    "chinese": "正直的",
+    "english": "honest",
+    "soundmark": "/ˈɑːnɪst/"
+  },
+  {
+    "chinese": "诚实的",
+    "english": "truthful",
+    "soundmark": "/ˈtruːθfl/"
+  },
+  {
+    "chinese": "谨慎的",
+    "english": "cautious",
+    "soundmark": "/ˈkɔːʃəs/"
+  },
+  {
+    "chinese": "大胆的",
+    "english": "bold",
+    "soundmark": "/boʊld/"
+  },
+  {
+    "chinese": "害羞的",
+    "english": "shy",
+    "soundmark": "/ʃaɪ/"
+  },
+  {
+    "chinese": "外向的",
+    "english": "outgoing",
+    "soundmark": "/ˈaʊtˌɡoʊɪŋ/"
+  },
+  {
+    "chinese": "内向的",
+    "english": "introverted",
+    "soundmark": "/ˈɪntrəˌvɜːrtɪd/"
+  },
+  {
+    "chinese": "活泼的",
+    "english": "lively",
+    "soundmark": "/ˈlaɪvli/"
+  },
+  {
+    "chinese": "安静的",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪət/"
+  },
+  {
+    "chinese": "健康的",
+    "english": "healthy",
+    "soundmark": "/ˈhɛlθi/"
+  },
+  {
+    "chinese": "不健康的",
+    "english": "unhealthy",
+    "soundmark": "/ʌnˈhɛlθi/"
+  },
+  {
+    "chinese": "幸福的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "不幸的",
+    "english": "unhappy",
+    "soundmark": "/ʌnˈhæpi/"
+  },
+  {
+    "chinese": "合适的",
+    "english": "suitable",
+    "soundmark": "/ˈsuːtəbl/"
+  },
+  {
+    "chinese": "不合适的",
+    "english": "unsuitable",
+    "soundmark": "/ʌnˈsuːtəbl/"
+  },
+  {
+    "chinese": "简单的",
+    "english": "simple",
+    "soundmark": "/ˈsɪmpl/"
+  },
+  {
+    "chinese": "复杂的",
+    "english": "complex",
+    "soundmark": "/ˈkɒmpleks/"
+  },
+  {
+    "chinese": "远的",
+    "english": "far",
+    "soundmark": "/fɑːr/"
+  },
+  {
+    "chinese": "近的",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "chinese": "忠诚的",
+    "english": "loyal",
+    "soundmark": "/ˈlɔɪəl/"
+  },
+  {
+    "chinese": "背叛的",
+    "english": "betraying",
+    "soundmark": "/bɪˈtreɪɪŋ/"
+  },
+  {
+    "chinese": "自信的",
+    "english": "confident",
+    "soundmark": "/ˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "缺乏自信的",
+    "english": "insecure",
+    "soundmark": "/ˌɪnsɪˈkjʊər/"
+  },
+  {
+    "chinese": "严肃的",
+    "english": "serious",
+    "soundmark": "/ˈsɪəriəs/"
+  },
+  {
+    "chinese": "轻松的",
+    "english": "casual",
+    "soundmark": "/ˈkæʒuəl/"
+  },
+  {
+    "chinese": "坚强的",
+    "english": "firm",
+    "soundmark": "/fɜːrm/"
+  },
+  {
+    "chinese": "软弱的",
+    "english": "feeble",
+    "soundmark": "/ˈfiːbl/"
+  },
+  {
+    "chinese": "谨慎的",
+    "english": "cautious",
+    "soundmark": "/ˈkɔːʃəs/"
+  },
+  {
+    "chinese": "冲动的",
+    "english": "impulsive",
+    "soundmark": "/ɪmˈpʌlsɪv/"
+  },
+  {
+    "chinese": "开放的",
+    "english": "open-minded",
+    "soundmark": "/ˌoʊpənˈmaɪndɪd/"
+  },
+  {
+    "chinese": "保守的",
+    "english": "conservative",
+    "soundmark": "/kənˈsɜːrvətɪv/"
+  },
+  {
+    "chinese": "有组织的",
+    "english": "organized",
+    "soundmark": "/ˈɔːrɡənaɪzd/"
+  },
+  {
+    "chinese": "混乱的",
+    "english": "chaotic",
+    "soundmark": "/keɪˈɒtɪk/"
+  },
+  {
+    "chinese": "有条理的",
+    "english": "methodical",
+    "soundmark": "/məˈθɒdɪkl/"
+  },
+  {
+    "chinese": "随意的",
+    "english": "random",
+    "soundmark": "/ˈrændəm/"
+  },
+  {
+    "chinese": "自由的",
+    "english": "free",
+    "soundmark": "/friː/"
+  },
+  {
+    "chinese": "受限制的",
+    "english": "restricted",
+    "soundmark": "/rɪˈstrɪktɪd/"
+  },
+  {
+    "chinese": "有活力的",
+    "english": "vibrant",
+    "soundmark": "/ˈvaɪbrənt/"
+  },
+  {
+    "chinese": "呆板的",
+    "english": "stiff",
+    "soundmark": "/stɪf/"
+  },
+  {
+    "chinese": "灵活的",
+    "english": "flexible",
+    "soundmark": "/ˈflɛksəbl/"
+  },
+  {
+    "chinese": "愉快的",
+    "english": "pleasant",
+    "soundmark": "/ˈplɛzənt/"
+  },
+  {
+    "chinese": "不愉快的",
+    "english": "unpleasant",
+    "soundmark": "/ʌnˈplɛzənt/"
+  },
+  {
+    "chinese": "尊敬的",
+    "english": "respectful",
+    "soundmark": "/rɪˈspɛktfəl/"
+  },
+  {
+    "chinese": "无礼的",
+    "english": "disrespectful",
+    "soundmark": "/ˌdɪsrɪˈspɛktfəl/"
+  },
+  {
+    "chinese": "虚伪的",
+    "english": "hypocritical",
+    "soundmark": "/ˌhɪpəˈkrɪtɪkl/"
+  },
+  {
+    "chinese": "诚实的",
+    "english": "honest",
+    "soundmark": "/ˈɑːnɪst/"
+  },
+  {
+    "chinese": "不诚实的",
+    "english": "dishonest",
+    "soundmark": "/dɪsˈɑːnɪst/"
+  },
+  {
+    "chinese": "真实的",
+    "english": "genuine",
+    "soundmark": "/ˈdʒɛnjʊɪn/"
+  },
+  {
+    "chinese": "虚假的",
+    "english": "fake",
+    "soundmark": "/feɪk/"
+  },
+  {
+    "chinese": "有教养的",
+    "english": "cultured",
+    "soundmark": "/ˈkʌltʃərd/"
+  },
+  {
+    "chinese": "没有教养的",
+    "english": "uncultured",
+    "soundmark": "/ˌʌnˈkʌltʃərd/"
+  },
+  {
+    "chinese": "高兴的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "悲伤的",
+    "english": "sad",
+    "soundmark": "/sæd/"
+  },
+  {
+    "chinese": "生气的",
+    "english": "angry",
+    "soundmark": "/ˈæŋɡri/"
+  },
+  {
+    "chinese": "害怕的",
+    "english": "afraid",
+    "soundmark": "/əˈfreɪd/"
+  },
+  {
+    "chinese": "紧张的",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "放松的",
+    "english": "relaxed",
+    "soundmark": "/rɪˈlækst/"
+  },
+  {
+    "chinese": "兴奋的",
+    "english": "excited",
+    "soundmark": "/ɪkˈsaɪtɪd/"
+  },
+  {
+    "chinese": "沮丧的",
+    "english": "depressed",
+    "soundmark": "/dɪˈprɛst/"
+  },
+  {
+    "chinese": "无聊的",
+    "english": "bored",
+    "soundmark": "/bɔːrd/"
+  },
+  {
+    "chinese": "烦恼的",
+    "english": "annoyed",
+    "soundmark": "/əˈnɔɪd/"
+  },
+  {
+    "chinese": "困惑的",
+    "english": "confused",
+    "soundmark": "/kənˈfjuːzd/"
+  },
+  {
+    "chinese": "疲劳的",
+    "english": "tired",
+    "soundmark": "/ˈtaɪərd/"
+  },
+  {
+    "chinese": "勇敢的",
+    "english": "brave",
+    "soundmark": "/breɪv/"
+  },
+  {
+    "chinese": "胆小的",
+    "english": "cowardly",
+    "soundmark": "/ˈkaʊərdli/"
+  },
+  {
+    "chinese": "有礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "无礼貌的",
+    "english": "impolite",
+    "soundmark": "/ˌɪmpəˈlaɪt/"
+  },
+  {
+    "chinese": "有信心的",
+    "english": "confident",
+    "soundmark": "/ˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "缺乏信心的",
+    "english": "unconfident",
+    "soundmark": "/ʌnˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "友好的",
+    "english": "friendly",
+    "soundmark": "/ˈfrɛndli/"
+  },
+  {
+    "chinese": "敌对的",
+    "english": "hostile",
+    "soundmark": "/ˈhɒstaɪl/"
+  },
+  {
+    "chinese": "真实的",
+    "english": "real",
+    "soundmark": "/rɪəl/"
+  },
+  {
+    "chinese": "虚假的",
+    "english": "fake",
+    "soundmark": "/feɪk/"
+  },
+  {
+    "chinese": "固执的",
+    "english": "stubborn",
+    "soundmark": "/ˈstʌbərn/"
+  },
+  {
+    "chinese": "灵活的",
+    "english": "flexible",
+    "soundmark": "/ˈflɛksəbl/"
+  },
+  {
+    "chinese": "困难的",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "容易的",
+    "english": "easy",
+    "soundmark": "/ˈiːzi/"
+  },
+  {
+    "chinese": "好的",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "chinese": "坏的",
+    "english": "bad",
+    "soundmark": "/bæd/"
+  },
+  {
+    "chinese": "舒适的",
+    "english": "comfortable",
+    "soundmark": "/ˈkʌmfərtəbl/"
+  },
+  {
+    "chinese": "不舒适的",
+    "english": "uncomfortable",
+    "soundmark": "/ʌnˈkʌmfərtəbl/"
+  },
+  {
+    "chinese": "轻松的",
+    "english": "relaxed",
+    "soundmark": "/rɪˈlækst/"
+  },
+  {
+    "chinese": "紧张的",
+    "english": "nervous",
+    "soundmark": "/ˈnɜːrvəs/"
+  },
+  {
+    "chinese": "安全的",
+    "english": "safe",
+    "soundmark": "/seɪf/"
+  },
+  {
+    "chinese": "危险的",
+    "english": "dangerous",
+    "soundmark": "/ˈdeɪndʒərəs/"
+  },
+  {
+    "chinese": "干净的",
+    "english": "clean",
+    "soundmark": "/kliːn/"
+  },
+  {
+    "chinese": "脏的",
+    "english": "dirty",
+    "soundmark": "/ˈdɜːrti/"
+  },
+  {
+    "chinese": "整洁的",
+    "english": "tidy",
+    "soundmark": "/ˈtaɪdi/"
+  },
+  {
+    "chinese": "凌乱的",
+    "english": "messy",
+    "soundmark": "/ˈmɛsi/"
+  },
+  {
+    "chinese": "亲切的",
+    "english": "kind",
+    "soundmark": "/kaɪnd/"
+  },
+  {
+    "chinese": "冷漠的",
+    "english": "indifferent",
+    "soundmark": "/ɪnˈdɪfrənt/"
+  },
+  {
+    "chinese": "诚实的",
+    "english": "honest",
+    "soundmark": "/ˈɒnɪst/"
+  },
+  {
+    "chinese": "不诚实的",
+    "english": "dishonest",
+    "soundmark": "/dɪsˈɒnɪst/"
+  },
+  {
+    "chinese": "虚伪的",
+    "english": "hypocritical",
+    "soundmark": "/ˌhɪpəˈkrɪtɪkl/"
+  },
+  {
+    "chinese": "有礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "无礼貌的",
+    "english": "impolite",
+    "soundmark": "/ˌɪmpəˈlaɪt/"
+  },
+  {
+    "chinese": "自信的",
+    "english": "confident",
+    "soundmark": "/ˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "缺乏自信的",
+    "english": "unconfident",
+    "soundmark": "/ʌnˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "友好的",
+    "english": "friendly",
+    "soundmark": "/ˈfrɛndli/"
+  },
+  {
+    "chinese": "敌对的",
+    "english": "hostile",
+    "soundmark": "/ˈhɒstaɪl/"
+  },
+  {
+    "chinese": "真实的",
+    "english": "real",
+    "soundmark": "/rɪəl/"
+  },
+  {
+    "chinese": "虚假的",
+    "english": "fake",
+    "soundmark": "/feɪk/"
+  },
+  {
+    "chinese": "固执的",
+    "english": "stubborn",
+    "soundmark": "/ˈstʌbərn/"
+  },
+  {
+    "chinese": "灵活的",
+    "english": "flexible",
+    "soundmark": "/ˈflɛksəbl/"
+  },
+  {
+    "chinese": "困难的",
+    "english": "difficult",
+    "soundmark": "/ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "容易的",
+    "english": "easy",
+    "soundmark": "/ˈiːzi/"
+  },
+  {
+    "chinese": "好的",
+    "english": "good",
+    "soundmark": "/ɡʊd/"
+  },
+  {
+    "chinese": "坏的",
+    "english": "bad",
+    "soundmark": "/bæd/"
+  },
+  {
+    "chinese": "舒适的",
+    "english": "comfortable",
+    "soundmark": "/ˈkʌmfərtəbl/"
+  },
+  {
+    "chinese": "不舒适的",
+    "english": "uncomfortable",
+    "soundmark": "/ʌnˈkʌmfərtəbl/"
+  },
+  {
+    "chinese": "轻松的",
+    "english": "casual",
+    "soundmark": "/ˈkæʒuəl/"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "chinese": "数据结构",
+    "english": "data structure",
+    "soundmark": "/ˈdeɪtə/ /ˈstrʌkʧər/"
+  },
+  {
+    "chinese": "算法",
+    "english": "algorithm",
+    "soundmark": "/ˈælɡəˌrɪðəm/"
+  },
+  {
+    "chinese": "编程",
+    "english": "programming",
+    "soundmark": "/ˈproʊˌɡræmɪŋ/"
+  },
+  {
+    "chinese": "软件工程",
+    "english": "software engineering",
+    "soundmark": "/ˈsɒftwɛr/ /ˌɛndʒɪˈnɪrɪŋ/"
+  },
+  {
+    "chinese": "计算机科学",
+    "english": "computer science",
+    "soundmark": "/kəmˈpjuːtər/ /ˈsaɪəns/"
+  },
+  {
+    "chinese": "网络安全",
+    "english": "cybersecurity",
+    "soundmark": "/ˈsaɪbərˌsɪkjʊrəti/"
+  },
+  {
+    "chinese": "人工智能",
+    "english": "artificial intelligence",
+    "soundmark": "/ˌɑːrtɪˈfɪʃəl/ /ɪnˈtɛlɪdʒəns/"
+  },
+  {
+    "chinese": "数据库",
+    "english": "database",
+    "soundmark": "/ˈdeɪtəˌbeɪs/"
+  },
+  {
+    "chinese": "操作系统",
+    "english": "operating system",
+    "soundmark": "/ˈɒpəreɪtɪŋ/ /ˈsɪstəm/"
+  },
+  {
+    "chinese": "硬件",
+    "english": "hardware",
+    "soundmark": "/ˈhɑːrdwɛr/"
+  },
+  {
+    "chinese": "编译器",
+    "english": "compiler",
+    "soundmark": "/kəmˈpaɪlər/"
+  },
+  {
+    "chinese": "代码",
+    "english": "code",
+    "soundmark": "/koʊd/"
+  },
+  {
+    "chinese": "程序",
+    "english": "program",
+    "soundmark": "/ˈproʊɡræm/"
+  },
+  {
+    "chinese": "接口",
+    "english": "interface",
+    "soundmark": "/ˈɪntərˌfeɪs/"
+  },
+  {
+    "chinese": "模块",
+    "english": "module",
+    "soundmark": "/ˈmɒdjuːl/"
+  },
+  {
+    "chinese": "函数",
+    "english": "function",
+    "soundmark": "/ˈfʌŋkʃən/"
+  },
+  {
+    "chinese": "变量",
+    "english": "variable",
+    "soundmark": "/ˈvɛriəbl/"
+  },
+  {
+    "chinese": "类",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "chinese": "对象",
+    "english": "object",
+    "soundmark": "/ˈɒbdʒɪkt/"
+  },
+  {
+    "chinese": "继承",
+    "english": "inheritance",
+    "soundmark": "/ɪnˈhɛrɪtəns/"
+  },
+  {
+    "chinese": "多态",
+    "english": "polymorphism",
+    "soundmark": "/ˌpɒlɪˈmɔːrfɪzəm/"
+  },
+  {
+    "chinese": "封装",
+    "english": "encapsulation",
+    "soundmark": "/ɪnˌkæpsjʊˈleɪʃən/"
+  },
+  {
+    "chinese": "递归",
+    "english": "recursion",
+    "soundmark": "/rɪˈkɜːrʒən/"
+  },
+  {
+    "chinese": "指针",
+    "english": "pointer",
+    "soundmark": "/ˈpɔɪntər/"
+  },
+  {
+    "chinese": "堆栈",
+    "english": "stack",
+    "soundmark": "/stæk/"
+  },
+  {
+    "chinese": "队列",
+    "english": "queue",
+    "soundmark": "/kjuː/"
+  },
+  {
+    "chinese": "链表",
+    "english": "linked list",
+    "soundmark": "/lɪŋkt/ /lɪst/"
+  },
+  {
+    "chinese": "树",
+    "english": "tree",
+    "soundmark": "/triː/"
+  },
+  {
+    "chinese": "图",
+    "english": "graph",
+    "soundmark": "/ɡræf/"
+  },
+  {
+    "chinese": "哈希表",
+    "english": "hash table",
+    "soundmark": "/hæʃ/ /ˈteɪbəl/"
+  },
+  {
+    "chinese": "排序算法",
+    "english": "sorting algorithm",
+    "soundmark": "/ˈsɔrtɪŋ/ /ˈælɡəˌrɪðəm/"
+  },
+  {
+    "chinese": "搜索算法",
+    "english": "search algorithm",
+    "soundmark": "/sɜːrtʃ/ /ˈælɡəˌrɪðəm/"
+  },
+  {
+    "chinese": "线性代数",
+    "english": "linear algebra",
+    "soundmark": "/ˈlɪnɪər/ /ˈælˌdʒɪbrə/"
+  },
+  {
+    "chinese": "微积分",
+    "english": "calculus",
+    "soundmark": "/ˈkælkjʊləs/"
+  },
+  {
+    "chinese": "离散数学",
+    "english": "discrete mathematics",
+    "soundmark": "/dɪˈskriːt/ /ˌmæθəˈmætɪks/"
+  },
+  {
+    "chinese": "概率论",
+    "english": "probability theory",
+    "soundmark": "/ˌprɒbəˈbɪlɪti/ /ˈθɪəri/"
+  },
+  {
+    "chinese": "统计学",
+    "english": "statistics",
+    "soundmark": "/stəˈtɪstɪks/"
+  },
+  {
+    "chinese": "信息论",
+    "english": "information theory",
+    "soundmark": "/ˌɪnfəˈmeɪʃən/ /ˈθɪəri/"
+  },
+  {
+    "chinese": "计算机图形学",
+    "english": "computer graphics",
+    "soundmark": "/kəmˈpjuːtər/ /ˈɡræfɪks/"
+  },
+  {
+    "chinese": "人机交互",
+    "english": "human-computer interaction",
+    "soundmark": "/ˈhjuːmən-/ˈkəmˌpjuːtər/ /ˌɪntərˈækʃən/"
+  },
+  {
+    "chinese": "编译原理",
+    "english": "compiler theory",
+    "soundmark": "/kəmˈpaɪlər/ /ˈθɪəri/"
+  },
+  {
+    "chinese": "操作系统原理",
+    "english": "operating system principles",
+    "soundmark": "/ˈɒpəreɪtɪŋ/ /ˈsɪstəm/ /ˈprɪnsəplz/"
+  },
+  {
+    "chinese": "计算机网络",
+    "english": "computer networks",
+    "soundmark": "/kəmˈpjuːtər/ /ˈnɛtwɜrks/"
+  },
+  {
+    "chinese": "网络协议",
+    "english": "network protocols",
+    "soundmark": "/ˈnɛtwɜrk/ /ˈproʊtəˌkɒlz/"
+  },
+  {
+    "chinese": "信息安全",
+    "english": "information security",
+    "soundmark": "/ˌɪnfəˈmeɪʃən/ /sɪˈkjʊrəti/"
+  },
+  {
+    "chinese": "软件测试",
+    "english": "software testing",
+    "soundmark": "/ˈsɒftwɛr/ /ˈtɛstɪŋ/"
+  },
+  {
+    "chinese": "并行计算",
+    "english": "parallel computing",
+    "soundmark": "/ˈpærəˌlɛl/ /kəmˈpjuːtɪŋ/"
+  },
+  {
+    "chinese": "云计算",
+    "english": "cloud computing",
+    "soundmark": "/klaʊd/ /kəmˈpjuːtɪŋ/"
+  },
+  {
+    "chinese": "大数据",
+    "english": "big data",
+    "soundmark": "/bɪɡ/ /ˈdeɪtə/"
+  },
+  {
+    "chinese": "机器学习",
+    "english": "machine learning",
+    "soundmark": "/məˈʃiːn/ /ˈlɜːrnɪŋ/"
+  },
+  {
+    "chinese": "深度学习",
+    "english": "deep learning",
+    "soundmark": "/diːp/ /ˈlɜːrnɪŋ/"
+  },
+  {
+    "chinese": "自然语言处理",
+    "english": "natural language processing",
+    "soundmark": "/ˈnætʃrəl/ /ˈlæŋɡwɪdʒ/ /ˈproʊsɛsɪŋ/"
+  },
+  {
+    "chinese": "计算机视觉",
+    "english": "computer vision",
+    "soundmark": "/kəmˈpjuːtər/ /ˈvɪʒən/"
+  },
+  {
+    "chinese": "机器人学",
+    "english": "robotics",
+    "soundmark": "/roʊˈbɒtɪks/"
+  },
+  {
+    "chinese": "计算机体系结构",
+    "english": "computer architecture",
+    "soundmark": "/kəmˈpjuːtər/ /ˈɑːrkɪˌtɛkʧər/"
+  },
+  {
+    "chinese": "微处理器",
+    "english": "microprocessor",
+    "soundmark": "/ˈmaɪkroʊˌprɒsɛsər/"
+  },
+  {
+    "chinese": "嵌入式系统",
+    "english": "embedded systems",
+    "soundmark": "/ɪmˈbɛdɪd/ /ˈsɪstəmz/"
+  },
+  {
+    "chinese": "物联网",
+    "english": "internet of things",
+    "soundmark": "/ˈɪntərˌnɛt/ /ʌv/ /ˈθɪŋz/"
+  },
+  {
+    "chinese": "计算机工程",
+    "english": "computer engineering",
+    "soundmark": "/kəmˈpjuːtər/ /ˌɛndʒɪˈnɪrɪŋ/"
+  },
+  {
+    "chinese": "计算机系统",
+    "english": "computer systems",
+    "soundmark": "/kəmˈpjuːtər/ /ˈsɪstəmz/"
+  },
+  {
+    "chinese": "计算机安全",
+    "english": "computer security",
+    "soundmark": "/kəmˈpjuːtər/ /sɪˈkjʊrəti/"
+  },
+  {
+    "chinese": "计算机硬件",
+    "english": "computer hardware",
+    "soundmark": "/kəmˈpjuːtər/ /ˈhɑːrdwɛr/"
+  },
+  {
+    "chinese": "计算机软件",
+    "english": "computer software",
+    "soundmark": "/kəmˈpjuːtər/ /ˈsɒftwɛr/"
+  },
+  {
+    "chinese": "计算机网络",
+    "english": "computer networking",
+    "soundmark": "/kəmˈpjuːtər/ /ˈnɛtwɜrkɪŋ/"
+  }
+]

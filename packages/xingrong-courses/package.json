@@ -6,6 +6,7 @@
     "scripts": {
         "upload:courses": "tsx src/courses.ts",
         "upload:statements": "tsx src/statements.ts",
+        "upload:add": "tsx src/addCourse.ts",
         "upload": "pnpm run upload:courses && pnpm run upload:statements",
         "pdf:parse": "tsx src/parsePDF/index.ts"
     },

@@ -4,11 +4,15 @@ import { AppModule } from './app/app.module';
 import { appGlobalMiddleware } from './app/useGlobal';
 
 async function bootstrap() {
-  const app = await NestFactory.create(AppModule);
+  const app = await NestFactory.create(AppModule, {
+    cors: true,
+  });
   app.enableCors({
     origin: [
       /^http:\/\/localhost(:\d+)?$/,
+      /^http:\/\/172\.16\.21\.172(:\d+)?$/,
       /^http:\/\/earthworm\.cuixueshe\.com(:81)?$/,
+      '*',
     ],
   });
 
@@ -21,7 +25,7 @@ async function bootstrap() {
     .build();
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup('/swagger', app, document);
-  await app.listen(3001);
+  await app.listen(3001, '0.0.0.0');
 }
 
 bootstrap();

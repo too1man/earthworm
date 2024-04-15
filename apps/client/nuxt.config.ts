@@ -37,7 +37,9 @@ export default defineNuxtConfig({
     autoImport: false,
   },
   components: true,
-  plugins: [
-    '~/plugins/globalComponents.ts'
-  ]
+  plugins: ["~/plugins/globalComponents.ts"],
+  devServer: {
+    host: "0.0.0.0",
+    port: 3000,
+  },
 });

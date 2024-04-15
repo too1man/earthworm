@@ -1,12 +1,12 @@
 import type { AxiosInstance, AxiosResponse } from "axios";
 import axios from "axios";
-import { checkHaveToken, getToken } from "~/utils/token";
 import { isProd } from "~/utils/env";
+import { checkHaveToken, getToken } from "~/utils/token";
 
 export const http: AxiosInstance = axios.create({
   baseURL: isProd()
     ? "https://earthworm.cuixueshe.com/api"
-    : "http://localhost:3001",
+    : `http://${location.hostname}:3001`,
   timeout: 10000,
   headers: { "Content-Type": "application/json" },
 });

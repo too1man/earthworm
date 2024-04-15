@@ -1,0 +1,232 @@
+[
+  {
+    "chinese": "他",
+    "english": "he",
+    "soundmark": "/hi/"
+  },
+  {
+    "chinese": "喜欢",
+    "english": "likes",
+    "soundmark": "/laɪks/"
+  },
+  {
+    "chinese": "读书",
+    "english": "reading books",
+    "soundmark": "/ˈriːdɪŋ/ /bʊks/"
+  },
+  {
+    "chinese": "他喜欢读书",
+    "english": "He likes reading books",
+    "soundmark": "/hi/ /laɪks/ /ˈriːdɪŋ/ /bʊks/"
+  },
+  {
+    "chinese": "在晚上",
+    "english": "at night",
+    "soundmark": "/æt/ /naɪt/"
+  },
+  {
+    "chinese": "他喜欢在晚上读书",
+    "english": "He likes reading books at night",
+    "soundmark": "/hi/ /laɪks/ /ˈriːdɪŋ/ /bʊks/ /æt/ /naɪt/"
+  },
+  {
+    "chinese": "安静的",
+    "english": "quiet",
+    "soundmark": "/ˈkwaɪɪt/"
+  },
+  {
+    "chinese": "晚上很安静",
+    "english": "It is quiet at night",
+    "soundmark": "/ɪt/ /ɪz/ /ˈkwaɪɪt/ /æt/ /naɪt/"
+  },
+  {
+    "chinese": "因此",
+    "english": "therefore",
+    "soundmark": "/ˈðɛrəfɔːr/"
+  },
+  {
+    "chinese": "因此晚上很安静适合读书",
+    "english": "Therefore, it is quiet at night, which is suitable for reading",
+    "soundmark": "/ˈðɛrəfɔːr/ /ɪt/ /ɪz/ /ˈkwaɪɪt/ /æt/ /naɪt/ /wɪtʃ/ /ɪz/ /ˈsuːtəbl/ /fɔːr/ /ˈriːdɪŋ/"
+  },
+  {
+    "chinese": "觉得",
+    "english": "feel",
+    "soundmark": "/fiːl/"
+  },
+  {
+    "chinese": "他觉得晚上读书很舒服",
+    "english": "He feels very comfortable reading books at night",
+    "soundmark": "/hi/ /fiːls/ /ˈvɛri/ /ˈkʌmftəbl/ /ˈriːdɪŋ/ /bʊks/ /æt/ /naɪt/"
+  },
+  {
+    "chinese": "因为",
+    "english": "because",
+    "soundmark": "/bɪˈkɔz/"
+  },
+  {
+    "chinese": "因为晚上很安静",
+    "english": "Because it is quiet at night",
+    "soundmark": "/bɪˈkɔz/ /ɪt/ /ɪz/ /ˈkwaɪɪt/ /æt/ /naɪt/"
+  },
+  {
+    "chinese": "他可以在没有干扰的情况下读书",
+    "english": "He can read books without any distractions",
+    "soundmark": "/hi/ /kæn/ /riːd/ /bʊks/ /wɪˈðaʊt/ /ˈɛni/ /dɪˈstrækʃnz/"
+  },
+  {
+    "chinese": "所以",
+    "english": "so",
+    "soundmark": "/so/"
+  },
+  {
+    "chinese": "因此他觉得晚上读书很舒服，因为晚上很安静，他可以在没有干扰的情况下读书",
+    "english": "Therefore, he feels very comfortable reading books at night because it is quiet and he can read books without any distractions",
+    "soundmark": "/ˈðɛrəfɔːr/ /hi/ /fiːls/ /ˈvɛri/ /ˈkʌmftəbl/ /ˈriːdɪŋ/ /bʊks/ /æt/ /naɪt/ /bɪˈkɔz/ /ɪt/ /ɪz/ /ˈkwaɪɪt/ /ænd/ /hi/ /kæn/ /riːd/ /bʊks/ /wɪˈðaʊt/ /ˈɛni/ /dɪˈstrækʃnz/"
+  },
+  {
+    "chinese": "她",
+    "english": "she",
+    "soundmark": "/ʃi/"
+  },
+  {
+    "chinese": "是一名医生",
+    "english": "is a doctor",
+    "soundmark": "/ɪz/ /ə/ /ˈdɒktər/"
+  },
+  {
+    "chinese": "她是一名医生",
+    "english": "She is a doctor",
+    "soundmark": "/ʃi/ /ɪz/ /ə/ /ˈdɒktər/"
+  },
+  {
+    "chinese": "她非常热爱她的工作",
+    "english": "She loves her job very much",
+    "soundmark": "/ʃi/ /lʌvz/ /hɜːr/ /dʒɒb/ /ˈvɛri/ /mʌtʃ/"
+  },
+  {
+    "chinese": "病人",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "她经常照顾病人",
+    "english": "She often takes care of patients",
+    "soundmark": "/ʃi/ /ˈɒfn/ /teɪks/ /keə/ /ɒv/ /ˈpeɪʃnts/"
+  },
+  {
+    "chinese": "并且",
+    "english": "and",
+    "soundmark": "/ənd/"
+  },
+  {
+    "chinese": "她很有耐心",
+    "english": "She is very patient",
+    "soundmark": "/ʃi/ /ɪz/ /ˈvɛri/ /ˈpeɪʃnt/"
+  },
+  {
+    "chinese": "她相信",
+    "english": "She believes",
+    "soundmark": "/ʃi/ /bɪˈliːvz/"
+  },
+  {
+    "chinese": "耐心是成为一名好医生的关键",
+    "english": "Patience is the key to becoming a good doctor",
+    "soundmark": "/ˈpeɪʃns/ /ɪz/ /ðiː/ /kiː/ /tə/ /bɪˈkʌmɪŋ/ /ə/ /gʊd/ /ˈdɒktər/"
+  },
+  {
+    "chinese": "因此",
+    "english": "therefore",
+    "soundmark": "/ˈðɛrəfɔːr/"
+  },
+  {
+    "chinese": "她经常努力提高自己的专业技能",
+    "english": "She always strives to improve her professional skills",
+    "soundmark": "/ʃi/ /ˈɔːlweɪz/ /straɪvz/ /tə/ /ɪmˈpruv/ /hɜːr/ /prəˈfɛʃənl/ /skɪls/"
+  },
+  {
+    "chinese": "学习",
+    "english": "studying",
+    "soundmark": "/ˈstʌdiɪŋ/"
+  },
+  {
+    "chinese": "她从不停止学习",
+    "english": "She never stops studying",
+    "soundmark": "/ʃi/ /ˈnevər/ /stɒps/ /ˈstʌdiɪŋ/"
+  },
+  {
+    "chinese": "因为她知道",
+    "english": "Because she knows",
+    "soundmark": "/bɪˈkɔz/ /ʃi/ /nəʊz/"
+  },
+  {
+    "chinese": "只有不断学习",
+    "english": "Only by constantly learning",
+    "soundmark": "/ˈəʊnli/ /baɪ/ /ˈkɒnstəntli/ /ˈlɜːnɪŋ/"
+  },
+  {
+    "chinese": "才能跟上医学的最新发展",
+    "english": "can one keep up with the latest developments in medicine",
+    "soundmark": "/kæn/ /wʌn/ /kiːp/ /ʌp/ /wɪð/ /ðiː/ /ˈleɪtɪst/ /dɪˈvɛləpmənts/ /ɪn/ /ˈmedsn/"
+  },
+  {
+    "chinese": "她的付出得到了同事和病人的认可",
+    "english": "Her dedication has been recognized by her colleagues and patients",
+    "soundmark": "/hɜːr/ /dɪˈkeɪʃn/ /hæz/ /biːn/ /ˈrɛkəɡnaɪzd/ /baɪ/ /hɜːr/ /ˈkɒlədʒɪz/ /ænd/ /ˈpeɪʃnts/"
+  },
+  {
+    "chinese": "这让她感到非常开心",
+    "english": "This makes her feel very happy",
+    "soundmark": "/ðɪs/ /meɪks/ /hɜːr/ /fiːl/ /ˈvɛri/ /ˈhæpi/"
+  },
+  {
+    "chinese": "她坚信",
+    "english": "She firmly believes",
+    "soundmark": "/ʃi/ /ˈfɜːmli/ /bɪˈliːvz/"
+  },
+  {
+    "chinese": "只有通过不懈的努力",
+    "english": "Only through persistent effort",
+    "soundmark": "/ˈəʊnli/ /θruː/ /pəˈsɪstənt/ /ˈefərt/"
+  },
+  {
+    "chinese": "才能实现梦想",
+    "english": "can one achieve one's dreams",
+    "soundmark": "/kæn/ /wʌn/ /əˈtʃiːv/ /wʌnz/ /driːmz/"
+  },
+  {
+    "chinese": "她对未来充满了期待",
+    "english": "She is full of expectations for the future",
+    "soundmark": "/ʃi/ /ɪz/ /fʊl/ /ɒv/ /ɪkˈspekteɪʃns/ /fɔːr/ /ðə/ /ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "她期待着能够在医学领域取得更大的成就",
+    "english": "She looks forward to achieving greater success in the medical field",
+    "soundmark": "/ʃi/ /lʊks/ /fɔːrˈwɔːrd/ /tə/ /əˈtʃiːvɪŋ/ /ˈɡreɪtə/ /səkˈsɛs/ /ɪn/ /ðiː/ /ˈmedɪkl/ /fiːld/"
+  },
+  {
+    "chinese": "她的家人也为她感到骄傲",
+    "english": "Her family is also proud of her",
+    "soundmark": "/hɜːr/ /ˈfæməli/ /ɪz/ /ˈɔːlsəʊ/ /praʊd/ /ɒv/ /hɜːr/"
+  },
+  {
+    "chinese": "他们知道",
+    "english": "They know",
+    "soundmark": "/ðeɪ/ /nəʊ/"
+  },
+  {
+    "chinese": "她的努力和付出都是值得的",
+    "english": "Her efforts and dedication are worthwhile",
+    "soundmark": "/hɜːr/ /ˈefərts/ /ænd/ /dɪˈdeɪʃn/ /ɑːr/ /ˈwɜːrθwaɪl/"
+  },
+  {
+    "chinese": "她不仅是一名优秀的医生",
+    "english": "She is not only an excellent doctor",
+    "soundmark": "/ʃi/ /ɪz/ /nɒt/ /ˈəʊnli/ /ən/ /ˈeksələnt/ /ˈdɒktər/"
+  },
+  {
+    "chinese": "更是一位值得尊敬的人",
+    "english": "but also a person worthy of respect",
+    "soundmark": "/bʌt/ /ˈɔːlsəʊ/ /ə/ /ˈpɜːsən/ /ˈwɜːði/ /ɒv/ /rɪˈspɛkt/"
+  }
+]
